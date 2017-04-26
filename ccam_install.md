@@ -12,27 +12,27 @@ The model can be built on the Pearcey machine from the source code:
 
 Parent directory `/home/bla375/ccaminstall/src`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/aeroemiss.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/aeroemiss.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/casafield.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/casafield.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/ccam.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/ccam.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/cdfvidar.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/cdfvidar.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/g2n.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/g2n.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/igbpveg.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/igbpveg.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/ocnbath.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/ocnbath.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/pcc2hist.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/pcc2hist.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/sibveg.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/sibveg.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/smclim.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/smclim.git`
 
-  `git clone https://bla375@bitbucket.csiro.au/scm/~bla375/terread.git`
+  `git clone https://bitbucket.csiro.au/scm/~bla375/terread.git`
 
 Clone the directories listed above into the directory `/home/bla375/ccaminstall/src`
 
